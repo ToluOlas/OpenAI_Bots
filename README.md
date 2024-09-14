@@ -1,6 +1,6 @@
-# Big News!
+# About
 
-There's now an official ChatGPT API!!!
+This is a directory containing a collection of early draft models for machine learning algorithms as well as OpenAI powered bots. 
 
 Watch the walk-through video for this repo here:
 
